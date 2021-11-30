@@ -1,0 +1,13 @@
+mode: set
+github.com/hampgoodwin/errors/error.go:9.46,11.2 1 1
+github.com/hampgoodwin/errors/error.go:18.30,18.105 1 1
+github.com/hampgoodwin/errors/error.go:20.30,22.2 1 1
+github.com/hampgoodwin/errors/error.go:24.34,26.2 1 1
+github.com/hampgoodwin/errors/errors.go:31.69,33.2 1 1
+github.com/hampgoodwin/errors/errors.go:35.79,37.2 1 1
+github.com/hampgoodwin/errors/message.go:10.33,10.104 1 1
+github.com/hampgoodwin/errors/message.go:12.33,12.51 1 1
+github.com/hampgoodwin/errors/message.go:14.51,15.16 1 1
+github.com/hampgoodwin/errors/message.go:18.2,18.44 1 1
+github.com/hampgoodwin/errors/message.go:15.16,17.3 1 1
+github.com/hampgoodwin/errors/wrap.go:7.40,9.2 1 1
