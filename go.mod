@@ -1,6 +1,6 @@
 module github.com/hampgoodwin/errors
 
-go 1.17
+go 1.21
 
 require (
 	github.com/matryer/is v1.4.0
