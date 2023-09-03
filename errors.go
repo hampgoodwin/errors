@@ -26,6 +26,8 @@ var (
 	NoRelationshipFound = New("not relationship found")
 	// NotKnown indicates an application failure for which the failure is not known
 	NotKnown = New("not known")
+	// NotUnique indicates an expectations of uniqueness which is not met
+	NotUnique = New("not unique")
 )
 
 func WithErrorMessage(rootErr, withErr error, message string) error {
